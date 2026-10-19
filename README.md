@@ -1,1 +1,2 @@
-# lab3_machineLearning
+- 03_Train_Test_Splits_Validation_Linear_Regression.ipynb - exercitii care trebuie rezolvate
+- 03_Trandafir.ipynb - lucrarea studentului
